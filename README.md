@@ -66,7 +66,7 @@
 - 🌱 I’m currently learning : **NeuroScience and OpenCV**
 - 👯 I’m looking to collaborate on : **Technical Blogs**
 - 🤔 I’m looking for help with : **NeuroScience**
-- 💬 Ask me about : **Python, Django, OpenCV, ElasticSearch, ReDiS, Problem - Solving**
+- 💬 Ask me about : **Anything**
 
 ### SUPPORT:
 [<img height="30" src = "https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">](https://www.buymeacoffee.com/thevishal) 
