@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter, Instagram, LinkedIN
 - ⚡ Fun fact: Baith ke baat krte h ispe!!
 
-### Profile Hits (w.e.f from 29-June-2021)
+###Profile Hits (w.e.f from 29-June-2021)
+
 ![counter](https://en42oinsn08n662.m.pipedream.net)
